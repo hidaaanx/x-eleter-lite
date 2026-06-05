@@ -17,8 +17,7 @@ Unlike third-party services that require your login credentials or expensive API
 
 1. Install the [Tampermonkey](https://www.tampermonkey.net/) extension for your browser (Chrome, Firefox, Safari, Edge).
 2. Click this link to install the script directly:  
-   👉 **[Click here to Install X-eleter Lite](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/x-eleter-lite/main/x-eleter-lite.user.js)**  
-   *(Note: Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username in the link above)*
+   👉 **[Click here to Install X-eleter Lite](https://raw.githubusercontent.com/hidaaanx/x-eleter-lite/main/x-eleter-lite.user.js)**  
 3. Tampermonkey will open a new tab. Click **"Install"**.
 4. Navigate to your X.com profile and look for the floating control panel on the right side of your screen!
 
