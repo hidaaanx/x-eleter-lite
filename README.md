@@ -22,7 +22,7 @@ Unlike third-party services that require your login credentials or expensive API
 4. Navigate to your X.com profile and look for the floating control panel on the right side of your screen!
 
 ## 🌐 Installation - Browser Extension (Work in progress)
-1. Download the latest release here
+1. Download the latest release [here](https://github.com/hidaaanx/x-eleter-lite/releases/tag/v2.1)
 2. Open Browser Settings -> Extensions -> Manage Extensions
 3. Load Unpacked -> Select X-eleter Lite folder (Not the ZIP file)
 
