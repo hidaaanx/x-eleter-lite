@@ -1,4 +1,4 @@
-# 🗑️ X-eleter Lite
+# 🗑️ X-eleter Lite - Delete Posts/Replies & Remove Retweets FOR FREE!
 
 A lightweight, privacy-focused Tampermonkey userscript that automates the deletion of your tweets/replies and the removal of your retweets on X (formerly Twitter). 
 
