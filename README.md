@@ -13,15 +13,15 @@ Unlike third-party services that require your login credentials or expensive API
 - **🖱️ Draggable UI**: A sleek, dark-mode control panel that you can drag anywhere on your screen.
 - **💻 Live Console**: Real-time logging of every action so you know exactly what the script is doing.
 
-## 🚀 Installation - Tampermonkey
+## 🚀 Installation - Tampermonkey / Greasyfork
 
 1. Install the [Tampermonkey](https://www.tampermonkey.net/) extension for your browser (Chrome, Firefox, Safari, Edge).
-2. Click this link to install the script directly:  
-   👉 **[Click here to Install X-eleter Lite](https://raw.githubusercontent.com/hidaaanx/x-eleter-lite/main/x-eleter-lite.user.js)**  
-3. Tampermonkey will open a new tab. Click **"Install"**.
+2. Once done just install my script directly from Greasyfork:  
+   👉 **[Click here to navigate to Greasyfork where I've hosted my script](https://greasyfork.org/en/scripts/581283-x-eleter-lite)**
+3. You may need to enable the script from the Tampermonkey extension from the browser, just click on the extension after you installed the script and there should be a toggle to enable the script.
 4. Navigate to your X.com profile and look for the floating control panel on the right side of your screen!
 
-## 🚀 Installation - Browser Extension
+## 🌐 Installation - Browser Extension (Work in progress)
 1. Download the latest release here
 2. Open Browser Settings -> Extensions -> Manage Extensions
 3. Load Unpacked -> Select X-eleter Lite folder (Not the ZIP file)
